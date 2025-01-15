@@ -50,8 +50,8 @@ This Arduino code controls a robot with four motors using PID control. It integr
 
 ### **Libraries Used**
 - [TimerOne](https://github.com/PaulStoffregen/TimerOne)
-- [QMC5883LCompass](https://github.com/keepworking/Arduino-QMC5883L)
-- [AS5600](https://github.com/jcbrnld/AS5600)
+- [QMC5883LCompass](https://github.com/mprograms/QMC5883LCompass)
+- [AS5600](https://github.com/RobTillaart/AS5600)
 
 Install these libraries through the Arduino Library Manager or download them from their respective repositories.
 
